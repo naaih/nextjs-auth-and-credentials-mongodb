@@ -1,1 +1,1 @@
-### nextjs user authentication with nextAuth and storing user data in monogdb
+### nextjs user authentication with nextAuth and storing user data in mongodb 
